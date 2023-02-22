@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-### Recreated Logical Architectural Deisgn
+### Recreated Logical Architectural Design 
 
 ![Cruddur Logical Design](assets/Week%200%20Cruddur%20Logical%20Diagram.png)
 
@@ -19,9 +19,9 @@
 
 ### Created Two Budgets
 
-![Created two Budgets](assets/Week%200%20Created%20a%20Budget.png)
+![Created two Budgets](assets/Week%200%20Created%20a%20Budget%20for%20my%20account.png)
 
 ### Created a Billing Alarm
 
-![Created a Billing Alarm](assets/Week%200%20Create%20an%20Alarm.png)
+![Created a Billing Alarm](assets/Week%200%20Created%20an%20Alarm%20for%20my%20account.png)
 
