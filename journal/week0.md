@@ -2,7 +2,7 @@
 
 ### Recreated Logical Architectural Design 
 
-![Cruddur Logical Design](assets/Week%200%20Cruddur%20Logical%20Diagram.png)
+![Cruddur Logical Design](assets/Week%200%20Logical%20Diagram%20Cruddur.png)
 
 
 [Lucid Charts Share Link](https://lucid.app/lucidchart/f48905f3-8e9d-4334-8f70-fddbd0724ecf/edit?viewport_loc=-956%2C118%2C3174%2C1587%2C0_0&invitationId=inv_4e440add-d530-44e1-99f1-4693a85c6930)
