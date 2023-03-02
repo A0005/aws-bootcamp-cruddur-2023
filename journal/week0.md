@@ -25,3 +25,12 @@
 
 ![Created a Billing Alarm](assets/Week%200%20Created%20an%20Alarm%20for%20my%20account.png)
 
+### Created an Organization Unit
+
+![Created an Organization Unit](assets/Week%200%20Created%20OU.png)
+
+
+### Created a Cloud Trial Event
+
+![Created a Cloud Trail Event](assets/Week%200%20Cloud%20Trail%20.png)
+
