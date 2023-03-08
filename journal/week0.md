@@ -36,7 +36,7 @@
 
 # Week 0 — Review 
 
-### This week, I learnt about and had the opportunity to use a variety of new tools and technologies:
+### This week, I learned about and had the opportunity to use a variety of new tools and technologies:
 
 1 - AWS Account: an AWS account is where you create and manage your AWS resources, and it also gives you control over access and invoicing. </br>
 
