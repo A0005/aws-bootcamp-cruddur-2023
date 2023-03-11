@@ -56,3 +56,10 @@
 
 ### This week, I learned about and had the opportunity to use a variety of new tools and technologies:
 
+1 - Docker: A software platform called Docker makes it simple to develop, test, and deploy applications. Software is packaged by Docker into standardised               units called containers that contain all of the necessary code, libraries, system tools, and runtime. Using Docker, you can easily scale and               deploy apps into any environment while being confident that your code will work.
+
+2 - Docker Container: A container is a standardised software component that wraps up code and all of its dependencies to ensure that an application will                         run swiftly and consistently in different computing environments. A lightweight, independent, executable bundle of software called a                       Docker container image contains all the components required to run a programme, including the code, runtime, system tools, system                           libraries, and settings.
+
+3 - Amazon Dynamo DB: Fast, reliable performance and smooth scalability are features of the fully managed NoSQL database service Amazon Dynamo DB.
+
+4 - Postgres: The robust, free PostgreSQL object-relational database system combines the SQL language with a number of capabilities to reliably store and                 scale even the most challenging data demands.
